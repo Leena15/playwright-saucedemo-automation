@@ -1,0 +1,22 @@
+{
+  "valid": {
+    "firstName": "Leena",
+    "lastName": "Deore",
+    "postalCode": "411027"
+  },
+  "missing_first": {
+    "firstName": "",
+    "lastName": "Deore",
+    "postalCode": "411027"
+  },
+  "missing_last": {
+    "firstName": "Leena",
+    "lastName": "",
+    "postalCode": "411027"
+  },
+  "missing_zip": {
+    "firstName": "Leena",
+    "lastName": "Deore",
+    "postalCode": ""
+  }
+}
