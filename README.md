@@ -23,8 +23,8 @@ End-to-end test automation framework for [SauceDemo](https://www.saucedemo.com) 
 ## Setup
 
 ```
-git clone https://github.com/<username>/playwright-saucedemo-portfolio.git
-cd playwright-saucedemo-portfolio
+git clone https://github.com/Leena15/playwright-saucedemo-automation.git
+cd playwright-saucedemo-automation
 pip install -r requirements.txt
 playwright install
 ```
